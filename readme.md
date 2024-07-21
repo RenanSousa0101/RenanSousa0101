@@ -9,9 +9,3 @@
   <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
-<div aling="center">
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp; 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CSS
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JAVASCRIPT
- &nbsp;&nbsp;VSCODE
-</div>
