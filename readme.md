@@ -22,6 +22,8 @@
 <div style="text-align: center;" align="center">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=RenanSousa0101&show_icons=true&theme=tokyonight">
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSousa0101&layout=compact&theme=tokyonight">
+  <a href="https://github.com/RenanSousa0101/github-readme-stats">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSousa0101&layout=compact&theme=tokyonight">
+  </a>
 </div>
 
