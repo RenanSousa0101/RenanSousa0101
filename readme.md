@@ -19,11 +19,12 @@
 
 # Status
 
-<div style="text-align: center;" align="center">
+<div style="text-align: center;" align="left">
   <br>
   <a href="https://github.com/RenanSousa0101/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RenanSousa0101&show_icons=true&theme=tokyonight">
+    <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=RenanSousa0101&show_icons=true&theme=tokyonight">
   </a>
+  &nbsp&nbsp&nbsp&nbsp
   <a href="https://github.com/RenanSousa0101/convoychat">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanSousa0101&layout=compact&theme=tokyonight">
   </a>
