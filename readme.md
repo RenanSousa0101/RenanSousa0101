@@ -19,7 +19,7 @@
 
 # Status
 
-<div style="text-align: center;" align="left">
+<div style="text-align: center;" align="center">
   <br>
   <a href="https://github.com/RenanSousa0101/github-readme-stats">
     <img height="140" align="center" src="https://github-readme-stats.vercel.app/api?username=RenanSousa0101&show_icons=true&theme=tokyonight">
