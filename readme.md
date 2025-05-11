@@ -1,4 +1,4 @@
-# Olá a todos, meu nome é Renan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+# Desenvolvedor Web Full Stack 
 </br>
 
 # Pilha de tecnologias
