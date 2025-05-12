@@ -5,11 +5,10 @@
 
 <p>Seja bem-vindo(a) ao meu perfil.</p>
 <p>
-  Sou Renan Sousa, atualmente cursando Ciência da Computação. Minha trajetória acadêmica me impulsiona a aprofundar constantemente no universo da programação e no desenvolvimento de sistemas robustos e eficientes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sou Renan Sousa, atualmente cursando Ciência da Computação. Minha trajetória acadêmica me impulsiona a aprofundar constantemente no universo da programação e no desenvolvimento de sistemas robustos e eficientes.
+Este espaço é dedicado a apresentar e documentar a evolução dos meus projetos. Através deles, busco não apenas aplicar os conhecimentos adquiridos, mas também explorar novas tecnologias e metodologias no campo do desenvolvimento de software.
   
-  Este espaço é dedicado a apresentar e documentar a evolução dos meus projetos. Através deles, busco não apenas aplicar os conhecimentos adquiridos, mas também explorar novas tecnologias e metodologias no campo do desenvolvimento de software.
-  
-  Convido você a conhecer um pouco mais sobre as minhas iniciativas e a paixão que dedico à criação de soluções por meio da programação.
+Convido você a conhecer um pouco mais sobre as minhas iniciativas e a paixão que dedico à criação de soluções por meio da programação.
 </p>
 
 # Pilha de tecnologias
