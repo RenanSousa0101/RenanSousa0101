@@ -15,7 +15,7 @@ Este espaço é dedicado a apresentar e documentar a evolução dos meus projeto
 <div aling="center">
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,ts,js,nodejs,express,prisma,postgres,postman,next,react,bootstrap,sass,figma,npm,babel,webpack,vite,vscode,git,github,linux,ubuntu" />
+      <img src="https://skillicons.dev/icons?i=html,css,ts,js,nodejs,express,prisma,postgres,postman,next,react,tailwind,bootstrap,sass,figma,npm,babel,webpack,vite,vscode,git,github,linux,ubuntu" />
     </a>
   </p>
 </div>
