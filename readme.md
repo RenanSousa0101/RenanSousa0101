@@ -2,13 +2,13 @@
 
 **`Desenvolvedor FullStack`**
 
-<p>>> Seja bem-vindo(a) ao meu perfil.</p>
-<p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sou Renan Sousa, atualmente cursando Ciência da Computação. Minha trajetória acadêmica me impulsiona a aprofundar constantemente no universo da programação e no desenvolvimento de sistemas robustos e eficientes.
-Este espaço é dedicado a apresentar e documentar a evolução dos meus projetos. Através deles, busco não apenas aplicar os conhecimentos adquiridos, mas também explorar novas tecnologias e metodologias no campo do desenvolvimento de software.
-  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Convido você a conhecer um pouco mais sobre as minhas iniciativas e a paixão que dedico à criação de soluções por meio da programação.
-</p>
+>> Seja bem-vindo(a) ao meu perfil!
+
+Sou Renan Sousa, graduando em Ciência da Computação pela FACAPE. Minha trajetória acadêmica e profissional é impulsionada pelo constante desejo de aprender, criar e evoluir no universo da programação e do desenvolvimento de sistemas robustos, eficientes e centrados no usuário.
+
+Este espaço é dedicado a apresentar e documentar a evolução dos meus projetos. Através deles, busco não apenas aplicar os conhecimentos adquiridos, mas também explorar novas tecnologias, boas práticas de desenvolvimento e metodologias modernas no campo da engenharia de software.
+
+Convido você a conhecer um pouco mais sobre minhas iniciativas e a paixão que dedico à criação de soluções inteligentes por meio da tecnologia.
 
 # Pilha de tecnologias
 
