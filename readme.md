@@ -4,11 +4,20 @@
 
 >> Seja bem-vindo(a) ao meu perfil!
 
-Sou Renan Sousa, graduando em Ciência da Computação pela FACAPE. Minha trajetória acadêmica e profissional é impulsionada pelo constante desejo de aprender, criar e evoluir no universo da programação e do desenvolvimento de sistemas robustos, eficientes e centrados no usuário.
+Sou Renan Sousa, graduando em Ciência da Computação pela FACAPE. Tenho paixão por tecnologia, design de sistemas e pelo impacto que o software pode gerar na vida das pessoas.
 
-Este espaço é dedicado a apresentar e documentar a evolução dos meus projetos. Através deles, busco não apenas aplicar os conhecimentos adquiridos, mas também explorar novas tecnologias, boas práticas de desenvolvimento e metodologias modernas no campo da engenharia de software.
+Atuo como desenvolvedor web com foco em aplicações **full stack**, utilizando tecnologias modernas e boas práticas de desenvolvimento. Busco constantemente criar soluções limpas, funcionais e centradas no usuário — da prototipação à entrega final.
 
-Convido você a conhecer um pouco mais sobre minhas iniciativas e a paixão que dedico à criação de soluções inteligentes por meio da tecnologia.
+Este espaço é dedicado à **documentação e evolução dos meus projetos**, onde compartilho meus aprendizados, iniciativas pessoais e desafios que venho superando ao longo da minha jornada na programação.
+
+Estou sempre explorando novas ferramentas, estudando arquitetura de software e aprofundando meu conhecimento em design de interfaces e experiência do usuário.
+
+# Projetos em destaque
+
+### 🔧 Trimly (em desenvolvimento – privado)  
+Sistema de agendamento online voltado para profissionais autônomos e pequenas empresas.  
+Criado com foco em usabilidade, eficiência e experiência do usuário.  
+Tecnologias: **Next.js, Tailwind CSS, Node.js, Express, Prisma e PostgreSQL**
 
 # Pilha de tecnologias
 
