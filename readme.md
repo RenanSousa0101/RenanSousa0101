@@ -17,7 +17,7 @@ Estou sempre explorando novas ferramentas, estudando arquitetura de software e a
 ### 🔧 Trimly (em desenvolvimento – privado)  
 Sistema de agendamento online voltado para profissionais autônomos e pequenas empresas.  
 Criado com foco em usabilidade, eficiência e experiência do usuário.  
-Tecnologias: **Next.js, Tailwind CSS, Node.js, Express, Prisma e PostgreSQL**
+Tecnologias: **TypeScript, Next.js, Tailwind CSS, Node.js, Express, Prisma e PostgreSQL**
 
 # Pilha de tecnologias
 
